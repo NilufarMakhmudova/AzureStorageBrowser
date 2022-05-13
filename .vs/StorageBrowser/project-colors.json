@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9c1c3e33-95a2-4615-906a-df55f563648e": {
+      "ProjectGuid": "9c1c3e33-95a2-4615-906a-df55f563648e",
+      "DisplayName": "StorageBrowser",
+      "ColorIndex": 0
+    },
+    "1792e090-296a-4b0d-88e3-46c11bb42130": {
+      "ProjectGuid": "1792e090-296a-4b0d-88e3-46c11bb42130",
+      "DisplayName": "Xcelerate.Common.DocumentService.Blobs",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "2f56ef1f-ee8f-491e-b537-67a1c1358517": {
+      "ProjectGuid": "2f56ef1f-ee8f-491e-b537-67a1c1358517",
+      "DisplayName": "FileUploader",
+      "ColorIndex": 2
+    },
+    "1f1d8be1-3ff2-4c07-b2c2-33626f7c6f4c": {
+      "ProjectGuid": "1f1d8be1-3ff2-4c07-b2c2-33626f7c6f4c",
+      "DisplayName": "Xcelerate.Common.Interfaces",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

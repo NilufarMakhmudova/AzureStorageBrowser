@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xcelerate.Common.DocumentService.Blobs", "..\..\..\..\..\Thomson Reuters\OnPrem\xcelerate\Xcelerate.Common.DocumentService.Blobs\Xcelerate.Common.DocumentService.Blobs.csproj", "{1792E090-296A-4B0D-88E3-46C11BB42130}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XcelerateUtils", "..\..\..\..\..\Thomson Reuters\OnPrem\xcelerate\XcelerateUtils\XcelerateUtils.csproj", "{26B6A0A2-42C3-44DC-B7AC-07E07C144108}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xcelerate.Common.Interfaces", "..\..\..\..\..\Thomson Reuters\OnPrem\xcelerate\Xcelerate.Common.Interfaces\Xcelerate.Common.Interfaces.csproj", "{1F1D8BE1-3FF2-4C07-B2C2-33626F7C6F4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XcelerateData", "..\..\..\..\..\Thomson Reuters\OnPrem\xcelerate\XcelerateData\XcelerateData.csproj", "{4B8E26D1-9390-4CDB-99C1-18CAB77C8A0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileUploader", "FileUploader\FileUploader.csproj", "{2F56EF1F-EE8F-491E-B537-67A1C1358517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1792E090-296A-4B0D-88E3-46C11BB42130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1792E090-296A-4B0D-88E3-46C11BB42130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1792E090-296A-4B0D-88E3-46C11BB42130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1792E090-296A-4B0D-88E3-46C11BB42130}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26B6A0A2-42C3-44DC-B7AC-07E07C144108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26B6A0A2-42C3-44DC-B7AC-07E07C144108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26B6A0A2-42C3-44DC-B7AC-07E07C144108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26B6A0A2-42C3-44DC-B7AC-07E07C144108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F1D8BE1-3FF2-4C07-B2C2-33626F7C6F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F1D8BE1-3FF2-4C07-B2C2-33626F7C6F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F1D8BE1-3FF2-4C07-B2C2-33626F7C6F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F1D8BE1-3FF2-4C07-B2C2-33626F7C6F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B8E26D1-9390-4CDB-99C1-18CAB77C8A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B8E26D1-9390-4CDB-99C1-18CAB77C8A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B8E26D1-9390-4CDB-99C1-18CAB77C8A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B8E26D1-9390-4CDB-99C1-18CAB77C8A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F56EF1F-EE8F-491E-B537-67A1C1358517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F56EF1F-EE8F-491E-B537-67A1C1358517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F56EF1F-EE8F-491E-B537-67A1C1358517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F56EF1F-EE8F-491E-B537-67A1C1358517}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F9EF13E-9ECA-4F09-A6BF-D2EE9DF89A92}
+	EndGlobalSection
+EndGlobal
